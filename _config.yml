@@ -1,0 +1,13 @@
+title: Chisel Works
+description: Entertainment focused software development organization.
+url: https://chiselworks.github.io
+remote_theme: oAGoulart/lesta
+#theme: lesta
+
+exclude: [
+  Gemfile.lock,
+  lesta.gemspec,
+  README.md,
+  CHANGELOG.md,
+  Gemfile, vendor, scripts
+]
